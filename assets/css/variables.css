@@ -1,0 +1,35 @@
+:root {
+  --primary-color: #212529;
+  --secondary-color: #dc323c;
+  --button-background-color: #2b38d1;
+  --background-color: #f1f5f6;
+  --tick-button-color: #ef262c;
+  --instock-button-color: #008a00;
+  --description-color: #515d66;
+  --divider-color: #e5e8ec;
+  --white: #fff;
+  --yellow: #fde50b;
+  --green: #17f084;
+  --gray: #8d979e;
+  --progress: #f3f4f6;
+  /* ------------------------------ */
+  --font-base: "Bai Jamjuree", sans-serif;
+  /* ------------------------------ */
+  --font-xxs: 11px;
+  --font-xs: 12px;
+  --font-s: 13px;
+  --font-l: 14px;
+  --font-heading: 16px;
+  --font-m: 18px;
+  --font-xl: 30px;
+  --font-xxl: 36px;
+  /* ------------------------------ */
+  --font-thin: 400;
+  --font-semi-bold: 500;
+  --font-bold: 600;
+  --font-black-bold: 700;
+  /* ------------------------------ */
+  --max-container-width: 1410px;
+  /* ------------------------------ */
+  --line-height: 1.3;
+}

@@ -1,0 +1,6 @@
+@import url(./variables.css);
+@import url(./global.css);
+@import url(./header/header.css);
+@import url(./elementor/elementor.css);
+@import url(./product/product.css);
+@import url(./footer/footer.css);

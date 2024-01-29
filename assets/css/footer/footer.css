@@ -1,0 +1,145 @@
+.footer-inner {
+  border-style: solid;
+  border-width: 1px 0px 1px 0px;
+  border-color: var(--divider-color);
+  padding: 56px 0px 31px 0px;
+}
+
+.footer-top-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-top-heading h2 {
+  text-transform: uppercase;
+  font-size: var(--font-l);
+  font-weight: var(--font-black-bold);
+  margin-bottom: 22px;
+}
+
+.footer-top-title p {
+  font-size: var(--font-l);
+  font-weight: var(--font-semi-bold);
+  color: var(--description-color);
+  margin-bottom: 7px;
+}
+
+.footer-top-phone {
+  margin-bottom: 21px;
+}
+
+.footer-top-phone a {
+  font-size: var(--font-xl);
+  font-weight: var(--font-semi-bold);
+  color: var(--button-background-color);
+}
+
+.footer-top-address {
+  margin-bottom: 8px;
+}
+
+.footer-top-address p,
+.footer-top-contact {
+  font-size: var(--font-l);
+  color: var(--description-color);
+}
+
+.footer-contact-wrapper p a {
+  color: var(--description-color);
+}
+
+.footer-contact-wrapper p:first-child {
+  margin-bottom: 7px;
+}
+
+.footer-nav-list .footer-nav-item {
+  margin-bottom: 16px;
+}
+
+.footer-nav-list .footer-nav-item .footer-nav-link {
+  margin-bottom: 2px;
+  font-size: var(--font-l);
+  font-weight: var(--font-semi-bold);
+  color: var(--description-color);
+}
+
+.footer-nav-item .footer-nav-link.is-active {
+  color: var(--primary-color);
+  text-decoration-line: underline;
+}
+
+.footer-top-descr {
+  color: var(--description-color);
+  font-size: var(--font-l);
+  width: 438px;
+  margin-bottom: 24px;
+  line-height: 1.6;
+}
+
+.footer-search-form {
+  margin-bottom: 15px;
+}
+
+.search-field {
+  display: flex;
+  justify-content: space-between;
+}
+
+.search-field-email {
+  width: 300px;
+  height: 50px;
+  border: 1px solid var(--description-color);
+  border-radius: 50px;
+}
+
+.search-field-email input {
+  padding: 17px 20px;
+  outline: none;
+}
+
+.submit-btn {
+  width: 140px;
+  height: 50px;
+  border-radius: 50px;
+  background: var(--button-background-color);
+}
+
+.submit-btn span {
+  text-transform: uppercase;
+  color: var(--white);
+}
+
+.footer-top-sub {
+  font-size: var(--font-l);
+  color: var(--description-color);
+}
+
+.footer-bottom-inner {
+  padding: 41px 0;
+}
+
+.footer-bottom-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-bottom-wrapper .footer-bottom-left p {
+  color: var(--description-color);
+  font-size: var(--font-l);
+}
+
+.footer-bottom-left p span {
+  color: var(--button-background-color);
+}
+
+.footer-bottom-right {
+  display: flex;
+  align-items: center;
+}
+
+.footer-bottom-right .payment-methods {
+  color: var(--description-color);
+  font-size: var(--font-l);
+  margin-right: 20px;
+}

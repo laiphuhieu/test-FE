@@ -1,0 +1,27 @@
+.container {
+  width: 100%;
+  max-width: 1410px;
+  margin: 0 auto;
+}
+
+.text {
+  font-size: var(--font-l);
+  font-weight: var(--font-bold);
+  color: var(--primary-color);
+}
+
+.text-wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.dropdown-icon {
+  margin-left: 3px;
+}
+
+.icon {
+  margin-right: 10px;
+  font-size: var(--font-xs);
+  line-height: 12px;
+  position: relative;
+}
